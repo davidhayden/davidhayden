@@ -2,12 +2,12 @@
 
 I enjoy my days as a freelance Microsoft Developer, computer science tutor, and personal development coach. You can learn more about me on two of my websites:
 
-- [https://www.orchardcore.io/about](Orchard Core Developer Website)
-- [https://www.davidhayden.me/about](Personal Website)
+- [Orchard Core Developer Website](https://www.orchardcore.io/about)
+- [Personal Website](https://www.davidhayden.me/about)
 
 ### Freelance Microsoft Developer
 
-As a freelance Microsoft developer, I primarily focus on .NET Core web development using Azure and Orchard Core. I develop Orchard Core websites, themes, and modules for development firms, corporate clients, and small businesses. I also offer training, consulting, content management, maintenance and other support services for Orchard Core. You can learn more on my [https://www.orchardcore.io](Orchard Core Developer Website).
+As a freelance Microsoft developer, I primarily focus on .NET Core web development using Azure and Orchard Core. I develop Orchard Core websites, themes, and modules for development firms, corporate clients, and small businesses. I also offer training, consulting, content management, maintenance and other support services for Orchard Core. You can learn more on my [Orchard Core Developer Website](https://www.orchardcore.io).
 
 ### Computer Science Tutor
 
@@ -15,4 +15,4 @@ I tutor college students in computer science in C, C++, Java, and Python. I help
 
 ### Personal Development Coach
 
-I provide personal development coaching to individuals and groups to improve their health, fitness, mindset, and habits. I have several fitness, nutrition, and specialty certifications from NASM. I also have exercise nutrition and personal development coaching certifications from Precision Nutrition and Optimize. You can learn more about my personal development coaching and certifications on my [https://www.davidhayden.me/about](personal website).
+I provide personal development coaching to individuals and groups to improve their health, fitness, mindset, and habits. I have several fitness, nutrition, and specialty certifications from NASM. I also have exercise nutrition and personal development coaching certifications from Precision Nutrition and Optimize. You can learn more about my personal development coaching and certifications on my [personal website](https://www.davidhayden.me/about).
